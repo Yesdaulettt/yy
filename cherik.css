@@ -1,0 +1,39 @@
+.qaz {
+  font-family: Raleway, sans-serif;
+}
+.tt {
+  font-family: "Josefin Sans", sans-serif;
+}
+.title {
+  font-family: "Amatic SC", sans-serif;
+}
+body {
+  background-image: url(https://www.icegif.com/wp-content/uploads/2023/03/icegif-1393.gif);
+  background-repeat: no-repeat; /* Отключает повторение GIF */
+  background-size: cover; /* Растягивает GIF на всю область элемента */
+  background-position: center; /* Центрирует GIF */
+}
+h1,
+h2,
+h3 {
+  font-family: "Amatic SC", sans-serif;
+  font-weight: bold;
+  color: #333;
+}
+p {
+  text-align: justify;
+  line-height: 1.6;
+  margin: 10px 0;
+}
+
+h1 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+img {
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  max-width: 100%;
+  height: auto;
+}
